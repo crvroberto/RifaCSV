@@ -1,5 +1,5 @@
 import './App.css';
-import { CSVLink, CSVDownload } from "react-csv";
+import { CSVLink } from "react-csv";
 
 function App() {
 
